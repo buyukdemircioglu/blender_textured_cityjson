@@ -14,6 +14,7 @@ How to install add-on:
 
 - You can watch [video](https://drive.google.com/file/d/19cG-ptgJLJb3qyrRvlm3SbPwlwd2GsIh/view) (please change quality to 1080p from settings)
 
+<br>
 
 or follow step-by-step guide:
 
@@ -26,6 +27,8 @@ or follow step-by-step guide:
 - Then click View (top-left) → Frame all
 - Change view distance with View (top-right) → End from 1000 to 10000
 - Press Z or use top-right menu to switch between wireframe, solid and material preview
+
+<br>
 
 Remove grids from background:
 - Edit → Preferences → Themes → 3D Viewport → Grid → change Alpha value to 0 (Default 0.502)
