@@ -14,5 +14,6 @@ How to install add-on:
 - Install [Blender](https://www.blender.org/download/lts/4-5/) software
 - After opening Bender software, go to Edit → Preferences → Add-ons → Click dropdown menu on top-right → Install from disk → Select .zip file
 - Go to Edit → Preferences → Add-ons and activate Textured CityJSON Importer
+- Press N to open left menu in 3D Viewport then click CityJSON → Import Textured CityJSON → Select textured CityJSON file
 - 
 
