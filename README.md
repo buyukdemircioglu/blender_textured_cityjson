@@ -8,5 +8,5 @@ Example datasets:
 
 [Enschede Textured CityJSON LOD 2.2 Dataset](https://drive.usercontent.google.com/download?id=1OY5vqxYPPgQzs0H7ISwHZxJY841BE98u)
 
-How to install:
+How to install add-on:
 
