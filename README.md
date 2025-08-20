@@ -13,5 +13,6 @@ How to install add-on:
 - Download [blender_textured_cityjson.zip](blender_textured_cityjson.zip)
 - Install [Blender](https://www.blender.org/download/lts/4-5/) software
 - After opening Bender software, go to Edit → Preferences → Add-ons → Click dropdown menu on top-right → Install from disk → Select .zip file
-- Add-on should be install in C:\Users\__USERNAME__\AppData\Roaming\Blender Foundation\Blender\4.5\scripts\addons\blender_textured_cityjson folder
+- Go to Edit → Preferences → Add-ons and activate Textured CityJSON Importer
+- 
 
