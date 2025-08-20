@@ -1,5 +1,7 @@
 # Blender add-on for visualizing textured CityJSON 3D city models
 
+![alt text](blender.png)
+
 Example datasets:
 
 [Enschede Textured CityJSON LOD 1.2 Dataset](https://drive.usercontent.google.com/download?id=1HIomrzAQiEE0HgpGLyZ2UbNrG80UVYRA)
