@@ -10,6 +10,7 @@ Example datasets:
 
 How to install add-on:
 
+- You can watch [video](https://drive.google.com/file/d/19cG-ptgJLJb3qyrRvlm3SbPwlwd2GsIh/view) or
 - Download [blender_textured_cityjson.zip](blender_textured_cityjson.zip)
 - Install [Blender](https://www.blender.org/download/lts/4-5/) software
 - After opening Bender software, go to Edit → Preferences → Add-ons → Click dropdown menu on top-right → Install from disk → Select .zip file
