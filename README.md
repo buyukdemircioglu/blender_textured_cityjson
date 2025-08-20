@@ -10,5 +10,5 @@ Example datasets:
 
 How to install add-on:
 
+- Download [add-on](addon.zip)
 - Install [Blender](https://www.blender.org/download/lts/4-5/) software
-- 
