@@ -1,4 +1,4 @@
-## This repository contains Blender add-on for visualizing textured CityJSON 3D city models of the paper: [Generating photorealistic urban digital twins with Occlusion-Aware texture mapping](https://doi.org/10.1016/j.jag.2025.105002)
+## This repository contains "Blender add-on for visualizing textured CityJSON 3D city models" of the paper: [Generating photorealistic urban digital twins with Occlusion-Aware texture mapping](https://doi.org/10.1016/j.jag.2025.105002)
 
 ![alt text](blender.png)
 
